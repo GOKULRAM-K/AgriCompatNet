@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="349" height="20" role="img" aria-label="Collaboration: India (VIT) x Malaysia (Taylor's)">
+  <title>Collaboration: India (VIT) x Malaysia (Taylor's)</title>
+  <linearGradient id="s" x2="0" y2="100%">
+    <stop offset="0" stop-color="#bbb" stop-opacity=".1"/>
+    <stop offset="1" stop-opacity=".1"/>
+  </linearGradient>
+  <clipPath id="r">
+    <rect width="349" height="20" rx="3" fill="#fff"/>
+  </clipPath>
+  <g clip-path="url(#r)">
+    <rect width="108" height="20" fill="#1B1F23"/>
+    <rect x="108" width="241" height="20" fill="#D9381E"/>
+    <rect width="349" height="20" fill="url(#s)"/>
+  </g>
+  <g fill="#fff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="110">
+    <text aria-hidden="true" x="540" y="150" fill="#010101" fill-opacity=".3" transform="scale(.1)" textLength="840">Collaboration</text>
+    <text x="540" y="140" transform="scale(.1)" fill="#fff" textLength="840">Collaboration</text>
+    <text aria-hidden="true" x="2285" y="150" fill="#010101" fill-opacity=".3" transform="scale(.1)" textLength="2170">India (VIT) x Malaysia (Taylor's)</text>
+    <text x="2285" y="140" transform="scale(.1)" fill="#fff" textLength="2170">India (VIT) x Malaysia (Taylor's)</text>
+  </g>
+</svg>

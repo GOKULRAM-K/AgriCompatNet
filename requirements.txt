@@ -1,0 +1,30 @@
+# AgriCompatNet Core Dependencies
+# Framework for Explainable Multimodal Data Fusion in Crop Compatibility Reasoning
+# Published in Elsevier Array, Vol. 32, 2026 (DOI: 10.1016/j.array.2026.101267)
+
+# Core Numerical & Data Processing
+numpy>=1.23.5
+pandas>=1.5.3
+scipy>=1.10.0
+
+# Machine Learning & Ensembles
+scikit-learn>=1.2.2
+lightgbm>=3.3.5
+catboost>=1.2.0
+joblib>=1.2.0
+
+# Explainable AI (XAI) & Manifold Learning
+shap>=0.42.1
+umap-learn>=0.5.3
+
+# Graph Theory & Network Analysis
+networkx>=3.0
+
+# Scientific Visualization & Plotting
+matplotlib>=3.7.1
+seaborn>=0.12.2
+
+# Interactive Notebook Environment
+jupyter>=1.0.0
+ipykernel>=6.20.0
+
